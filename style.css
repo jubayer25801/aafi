@@ -850,14 +850,16 @@ text-align: center;
         justify-content: center;
         align-items: center;
 
-    }
+    }.contact-title{
+text-align: center;
+}
     .my-name h4{
-        font-size: 18px;
-        margin-top: 10px;
+        font-size: 14px;
+        margin-top: 20px;
     }
     .my-name .h4-2{
     
-        font-size: 18px;
+        font-size: 14px;
     }
     .title-img{
         text-align: center;
